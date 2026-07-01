@@ -1,1 +1,13 @@
-
+{
+    "appversion": "60",
+    "platform": "0",
+    "deviceid": "e2c1e9978082016a",
+    "os": "Android 16 (API 36)",
+    "ts": "1782939997",
+    "network_type": "WIFI",
+    "authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJjcmVhdGVkRGF0ZSI6IjIwMjUtMDktMjAgMDI6MDE6MDYuMDg2Iiwic2Vzc2lvbklkIjoiMTYwNzM4MDc0IiwiZGV2aWNlSWQiOiJlMmMxZTk5NzgwODIwMTZhIiwic3ViIjoiODI4NDgyNyIsImV4cCI6MTc4MzE5OTE5MX0.GLi3bJXl0GKXcU9wnuD90sXtvKgltNRulrXgurA07aQ",
+    "accept": "application/json",
+    "user-agent": "ktor-client",
+    "content-type": "application/json",
+    "host": "api.storytv.asia"
+}
