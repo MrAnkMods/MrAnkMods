@@ -1,1 +1,1 @@
-true|https://telegram.me/Ankmods0
+false|https://telegram.me/Ankmods0
