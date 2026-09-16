@@ -1,0 +1,27 @@
+{
+  "enabled": false,
+  "showUpdate": false,
+
+  "latestVersionCode": 25,
+  "latestVersionName": "2.5.0",
+
+  "minimumVersionCode": 1,
+
+  "title": "New Update Available",
+  "message": "A new version is ready for you",
+  "dateText": "15 September 2026",
+
+  "downloadBase64": "aHR0cHM6Ly90Lm1lL0Fua21vZHMw",
+
+  "forceUpdate": false,
+
+  "showChangelog": true,
+
+  "changelog": [
+    "Improved performance",
+    "Bug fixes & stability",
+    "New features and improvements"
+  ]
+}
+
+
