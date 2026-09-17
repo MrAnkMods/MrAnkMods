@@ -1,6 +1,6 @@
 {
-  "enabled": true,
-  "showUpdate": true,
+  "enabled": false,
+  "showUpdate": false,
 
   "latestVersionCode": 25,
   "latestVersionName": "2.5.0",
@@ -13,7 +13,7 @@
 
   "downloadBase64": "aHR0cHM6Ly90Lm1lL0Fua21vZHMw",
 
-  "forceUpdate": true,
+  "forceUpdate": false,
 
   "showChangelog": true,
 
