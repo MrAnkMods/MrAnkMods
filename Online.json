@@ -21,7 +21,7 @@
     "servers": [
       {
         "name": "Server 1",
-        "url": "https://example.com/server1/data.zip",
+        "url": "https://github.com/MrAnkMods/MrAnkMods/raw/refs/heads/main/serber.zip",
         "enabled": true
       },
       {
