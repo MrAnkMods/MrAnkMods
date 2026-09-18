@@ -1,0 +1,39 @@
+{
+  "maintenance": {
+    "enabled": false,
+    "title": "Under Maintenance",
+    "message": "We are currently performing maintenance. Please try again later."
+  },
+
+  "update": {
+    "enabled": false,
+    "title": "New Update Available",
+    "message": "A newer version of the app is available. Update now to get the latest features and fixes.",
+    "url": "https://example.com/app-update.apk",
+    "autoOpen": false
+  },
+
+  "patch": {
+    "enabled": true,
+    "title": "New Patch Available",
+    "message": "Choose a server to download the latest patch.",
+
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://example.com/server1/data.zip",
+        "enabled": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://example.com/server2/data.zip",
+        "enabled": true
+      },
+      {
+        "name": "Server 3",
+        "url": "https://example.com/server3/data.zip",
+        "enabled": true
+      }
+    ]
+  }
+}
