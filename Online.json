@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "title": "Under Maintenance",
     "message": "We are currently performing maintenance. Please try again later."
   },
