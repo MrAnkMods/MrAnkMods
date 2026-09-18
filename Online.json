@@ -1,12 +1,12 @@
 {
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "title": "Under Maintenance",
     "message": "We are currently performing maintenance. Please try again later."
   },
 
   "update": {
-    "enabled": false,
+    "enabled": true,
     "title": "New Update Available",
     "message": "A newer version of the app is available. Update now to get the latest features and fixes.",
     "url": "https://example.com/app-update.apk",
