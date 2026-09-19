@@ -21,7 +21,7 @@
 
   "patch": {
     "enabled": true,
-    "autoDownloadFirst": true,
+    "autoDownloadFirst": false,
     "id": "patch_2.5.0",
     "message": "Choose a server to download the latest patch.",
     "servers": [
