@@ -6,7 +6,7 @@
   },
 
   "update": {
-    "enabled": true,
+    "enabled": false,
     "title": "New Update Available",
     "message": "A newer version of the app is available. Update now to get the latest features and fixes.",
     "url": "https://example.com/app-update.apk",
