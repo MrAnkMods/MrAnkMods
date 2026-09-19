@@ -1,38 +1,44 @@
 {
   "maintenance": {
     "enabled": false,
-    "title": "Under Maintenance",
-    "message": "We are currently performing maintenance. Please try again later."
+    "title": "Server Maintenance",
+    "message": "Server is under maintenance.\nPlease try again later."
   },
 
   "update": {
     "enabled": false,
-    "title": "New Update Available",
-    "message": "A newer version of the app is available. Update now to get the latest features and fixes.",
-    "url": "https://example.com/app-update.apk",
-    "autoOpen": false
+    "version": "2.5.0",
+    "date": "13 September 2026",
+    "message": "A new version is ready for you",
+    "features": [
+      "Buffering Problem Fixed",
+      "Video Not Playing Problem Fixed",
+      "Download Quality Unlocked",
+      "High Speed Ultra Streaming"
+    ],
+    "url": "https://example.com/update.apk"
   },
 
   "patch": {
     "enabled": true,
-    "title": "New Patch Available",
+    "autoDownloadFirst": true,
+    "id": "patch_2.5.0",
     "message": "Choose a server to download the latest patch.",
-
     "servers": [
       {
         "name": "Server 1",
-        "url": "https://github.com/MrAnkMods/MrAnkMods/raw/refs/heads/main/serber.zip",
-        "enabled": true
+        "enabled": true,
+        "url": "https://github.com/MrAnkMods/MrAnkMods/raw/refs/heads/main/serber.zip"
       },
       {
         "name": "Server 2",
-        "url": "https://example.com/server2/data.zip",
-        "enabled": true
+        "enabled": true,
+        "url": "https://example.com/server2/data.zip"
       },
       {
         "name": "Server 3",
-        "url": "https://example.com/server3/data.zip",
-        "enabled": true
+        "enabled": true,
+        "url": "https://example.com/server3/data.zip"
       }
     ]
   }
