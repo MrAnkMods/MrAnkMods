@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "title": "Server Maintenance",
     "message": "Server is under maintenance.\nPlease try again later."
   },
