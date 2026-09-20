@@ -21,8 +21,8 @@
 
   "patch": {
   "enabled": true,
-  "autoDownloadFirst": false,
-  "id": "patch_2.5.4",
+  "autoDownloadFirst": true,
+  "id": "patch_2.5.5",
 
   "recommendedServer": "Server 1",
 
