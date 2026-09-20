@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "title": "Server Maintenance",
     "message": "Server is under maintenance.\nPlease try again later."
   },
@@ -21,7 +21,7 @@
 
   "patch": {
   "enabled": true,
-  "autoDownloadFirst": true,
+  "autoDownloadFirst": false,
   "id": "patch_2.5.5",
 
   "recommendedServer": "Server 1",
