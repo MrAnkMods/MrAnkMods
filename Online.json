@@ -24,13 +24,13 @@
   "autoDownloadFirst": false,
   "id": "patch_2.5.0",
 
-  "recommendedServer": "Server 2",
+  "recommendedServer": "Server 1",
 
   "servers": [
     {
       "name": "Server 1",
       "enabled": true,
-      "url": "https://example.com/server1/data.zip"
+      "url": "https://github.com/MrAnkMods/MrAnkMods/raw/refs/heads/main/Spotify.zip"
     },
     {
       "name": "Server 2",
