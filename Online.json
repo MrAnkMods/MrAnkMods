@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "title": "Server Maintenance",
     "message": "Server is under maintenance.\nPlease try again later."
   },
@@ -20,26 +20,28 @@
   },
 
   "patch": {
-    "enabled": true,
-    "autoDownloadFirst": false,
-    "id": "patch_2.5.0",
-    "message": "Choose a server to download the latest patch.",
-    "servers": [
-      {
-        "name": "Server 1",
-        "enabled": true,
-        "url": "https://github.com/indapks/Arvind/raw/refs/heads/main/Spotify.zip"
-      },
-      {
-        "name": "Server 2",
-        "enabled": true,
-        "url": "https://example.com/server2/data.zip"
-      },
-      {
-        "name": "Server 3",
-        "enabled": true,
-        "url": "https://example.com/server3/data.zip"
-      }
-    ]
+  "enabled": true,
+  "autoDownloadFirst": true,
+  "id": "patch_2.5.0",
+
+  "recommendedServer": "Server 2",
+
+  "servers": [
+    {
+      "name": "Server 1",
+      "enabled": true,
+      "url": "https://example.com/server1/data.zip"
+    },
+    {
+      "name": "Server 2",
+      "enabled": true,
+      "url": "https://example.com/server2/data.zip"
+    },
+    {
+      "name": "Server 3",
+      "enabled": true,
+      "url": "https://example.com/server3/data.zip"
+    }
+  ]
   }
 }
