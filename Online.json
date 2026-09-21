@@ -6,7 +6,7 @@
   },
 
   "update": {
-    "enabled": false,
+    "enabled": true,
     "version": "2.5.0",
     "date": "13 September 2026",
     "message": "A new version is ready for you",
