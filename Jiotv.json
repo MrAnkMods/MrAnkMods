@@ -5,7 +5,7 @@
     "message": "Server is under maintenance.\nPlease try again later."
   },
   "update": {
-    "enabled": true,
+    "enabled": false,
     "version": "2.5.0",
     "date": "13 September 2026",
     "message": "A new version is ready for you",
@@ -19,7 +19,7 @@
   },
   "patch": {
     "enabled": true,
-    "autoDownloadFirst": false,
+    "autoDownloadFirst": true
     "id": "patch_2.5.7",
     "recommendedServer": "Server 1",
     "servers": [
