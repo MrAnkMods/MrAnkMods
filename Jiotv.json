@@ -1,0 +1,48 @@
+{
+  "maintenance": {
+    "enabled": false,
+    "title": "Server Maintenance",
+    "message": "Server is under maintenance.\nPlease try again later."
+  },
+
+  "update": {
+    "enabled": false,
+    "version": "2.5.0",
+    "date": "13 September 2026",
+    "message": "A new version is ready for you",
+    "features": [
+      "Buffering Problem Fixed",
+      "Video Not Playing Problem Fixed",
+      "Download Quality Unlocked",
+      "High Speed Ultra Streaming"
+    ],
+    "url": "https://example.com/update.apk"
+  },
+
+  "patch": {
+  "enabled": true,
+  "autoDownloadFirst": false,
+  "id": "patch_2.5.7",
+
+  "recommendedServer": "Server 1",
+
+  "servers": [
+    {
+      "name": "Server 1",
+      "enabled": true,
+      "url": "https://vucjrcjcrzvmymttxwkz.supabase.co/storage/v1/object/public/backup/com.jio.jioplay.tv.zip"
+    },
+    {
+      "name": "Server 2",
+      "enabled": true,
+      "url": "https://github.com/MrAnkMods/MrAnkMods/raw/refs/heads/main/AbkSptog2.zip"
+    },
+    {
+      "name": "Server 3",
+      "enabled": true,
+      "url": "https://example.com/server3/data.zip"
+    }
+  ]
+  }
+}
+
