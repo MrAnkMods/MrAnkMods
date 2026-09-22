@@ -30,7 +30,7 @@
     {
       "name": "Server 1",
       "enabled": true,
-      "url": "https://github.com/MrAnkMods/MrAnkMods/raw/refs/heads/main/jidata.zip"
+      "url": "https://vucjrcjcrzvmymttxwkz.supabase.co/storage/v1/object/public/backup/com.jio.jioplay.tv.zip"
     },
     {
       "name": "Server 2",
