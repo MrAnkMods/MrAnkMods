@@ -21,7 +21,7 @@
 
   "patch": {
   "enabled": true,
-  "autoDownloadFirst": true,
+  "autoDownloadFirst": false,
   "id": "patch_2.5.7",
 
   "recommendedServer": "Server 1",
@@ -30,7 +30,7 @@
     {
       "name": "Server 1",
       "enabled": true,
-      "url": "https://github.com/MrAnkMods/MrAnkMods/raw/refs/heads/main/ANKSpotify.zip"
+      "url": "https://github.com/MrAnkMods/MrAnkMods/raw/refs/heads/main/Abbavspto.zip"
     },
     {
       "name": "Server 2",
