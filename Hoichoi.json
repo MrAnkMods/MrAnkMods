@@ -21,7 +21,7 @@
 
   "patch": {
   "enabled": true,
-  "autoDownloadFirst": false,
+  "autoDownloadFirst": true,
   "id": "patch_2.5.7",
 
   "recommendedServer": "Server 1",
@@ -30,7 +30,7 @@
     {
       "name": "Server 1",
       "enabled": true,
-      "url": "https://vucjrcjcrzvmymttxwkz.supabase.co/storage/v1/object/public/backup/com.spotify.music.zip"
+      "url": "https://vucjrcjcrzvmymttxwkz.supabase.co/storage/v1/object/public/backup/com.viewlift.hoichoi.zip"
     },
     {
       "name": "Server 2",
