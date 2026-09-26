@@ -1,11 +1,11 @@
 {
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "title": "Server Maintenance",
     "message": "Server is under maintenance.\nPlease try again later."
   },
   "update": {
-    "enabled": true,
+    "enabled": false,
     "version": "2.5.0",
     "date": "13 September 2026",
     "message": "A new version is ready for you",
