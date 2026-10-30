@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "showUpdate": false,
+  "enabled": true,
+  "showUpdate": true,
 
   "latestVersionCode": 25,
   "latestVersionName": "2.5.0",
