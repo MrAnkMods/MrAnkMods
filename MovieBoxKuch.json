@@ -1,5 +1,5 @@
 {
+  "autoStart": true,
   "enabled": true,
-  "redirect": true,
-  "telegramUrl": "https://t.me/Ankmods0"
+  "telegramLink": "https://t.me/Ankmods0"
 }
